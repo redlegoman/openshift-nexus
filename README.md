@@ -1,3 +1,6 @@
+Instructions : https://tomd.xyz/openshift-nexus-docker-registry/
+
+
 # Sonatype Nexus on OpenShift
 
 This repo contains an OpenShift template for deploying Sonatype Nexus 3 in OpenShift. This is a fork of the [OpenShiftDemos/nexus][demorepo] repository, with some customisations to the memory settings, deployment strategy and ports, for the purposes of a tutorial article.
